@@ -3,10 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">6031 GIS & Public Health</a></li>
+        <li><a href="./">Migration Paper</a></li>
       after: |
         <li><a href="mailto:correaem@mail.uc.edu" target="blank">contact</a></li>
-      collapse: subsection
+      collapse: none
       scroll_highlight: yes
     download: ["pdf"]
     toolbar:

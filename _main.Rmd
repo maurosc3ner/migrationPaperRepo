@@ -54,3 +54,51 @@ kable(schedule) %>%
 ```
 
 ** Not included due to NA values. 
+
+<!--chapter:end:index.Rmd-->
+
+
+# Zimbabwe {#week1}
+
+Placeholder
+
+
+## Females
+### HIV Analysis
+### Migration Analysis
+#### Migration 0-1 ~ cofactors for females
+#### Migration 1-5 ~ cofactors for females
+### Mapping
+## Males
+### HIV Analysis
+### Migration Analysis
+#### Migration 0-1 ~ cofactors for males
+#### Migration 1-5 ~ cofactors for males
+### Mapping
+
+<!--chapter:end:01-Week1.Rmd-->
+
+
+# South Africa {#week2}
+
+Placeholder
+
+
+## Females
+### HIV Analysis
+### Migration Analysis
+#### Migration 0-1 ~ cofactors for females
+#### Migration 1-5 ~ cofactors for males
+### Mapping
+## Males
+
+<!--chapter:end:02-Week2.Rmd-->
+
+# Zambia{#week3}
+
+## Females
+
+## Males
+
+<!--chapter:end:03-Week3.Rmd-->
+
