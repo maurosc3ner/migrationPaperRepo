@@ -19,6 +19,8 @@ library(dplyr)
 library(kableExtra)
 ```
 
+# Introduction
+ 
 ## Research question {-}
 
 We are interested in assessing if _migration status_ is associated to _hiv status_ across females and males for Zimbabwe, South Africa and Zambia. In the dataset, _migration status_ is defined as a binary variable called migstatus (0_1y=years lived in current resident < 1 year, and gt1=years lived in current resident > 1 year), and _hiv status_ is another binary variable called hivStatus (1=hiv+ and 0=hiv-). 
